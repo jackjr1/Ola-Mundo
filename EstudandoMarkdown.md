@@ -69,4 +69,7 @@ tarefas efetuadas basta voltar no arquivo onde foi feito a tarefa acima e coloca
 - [X] terminei a tarefa
 ---
 
-Para colocar imagem, basta arras a imagem para  
+Para colocar imagem, basta arrastar a imagem para  a area escrito:
+"Attach files by dragging, selecting or pasting item."
+na sessão de comentarios da Issues
+---
