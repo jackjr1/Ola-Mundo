@@ -24,7 +24,6 @@ quatro "####" =
 #### Título de Nível 4
 e assim por diante, para fazer o equivalente ao "h1" (e demais) de HTML.
 
-#### Título 
 Para fazer uma linha usar 3 - ou 3 *
 Com traços
 ---
