@@ -27,7 +27,8 @@ e assim por diante, para fazer o equivalente ao "h1" (e demais) de HTML.
 
 ---
 
-Para fazer uma linha usar 3 - ou 3 "*"
+Para fazer uma linha usar 3 "-" ou 3 "*".
+
 Com traços
 
 ---
@@ -116,13 +117,13 @@ Para aparecer como mostra acima e não como texto comum (document.getElementById
 Para colocar trechos de programas:
 Coloca se 3crases quebra linha escreve o comando, quebra a linha e mais 3 crases.
 EX: Olha meu programa em Python 
-´´´
+```
 num = int(input('Digite um valor:')
 if num %2 == 0:
     print(f'O valor {num}é PAR)
 else:
     print(f'O valor{num}é ÍMPAR')    
-´´´
+```
 Tambem é possível efetuar um comentário e logo apos colar uma print como ensinado a mostrar acima em imagens.
 
 ---
@@ -138,10 +139,10 @@ Ps: Um super congratulations para ela pelo extraordinário trabalho :wave:  :smi
 
 Marcando pessoas:
 
-Para marcar uma pessoa que tem GitHub, basta colocar o nome do perfil depois do "@" sem espaço ex: @jackjr1
+Para marcar uma pessoa que tem GitHub, basta colocar o nome do perfil depois do "@" sem espaço (na Issues, nos comentarios etc)ex: @jackjr1
 
 ---
-É isso para este documento :Smile: para algumas outras marcações ou formas de utilizar esta super linguagem de marcação, confere o curso de Git e GitHub do @gustavoguanabara, é top.
+É isso para este documento :Smile: para algumas outras marcações ou formas de utilizar esta super linguagem de marcação, confere o curso de Git e GitHub do gustavoguanabara, é top.
 
 obrigado por ler tudo isso, espero que ajude.
 
