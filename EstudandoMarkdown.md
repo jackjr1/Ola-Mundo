@@ -66,7 +66,7 @@ Lista de tarefas:
 para criar lista de tarefas usa-se: "-" espaço "[]" espaço e texto
 
 tarefas efetuadas basta voltar no arquivo onde foi feito a tarefa acima e colocar um "X" dentro ex:
-- [ X ] terminei a tarefa
+- [X] terminei a tarefa
 ---
 
 Para colocar imagem, basta arras a imagem para  
