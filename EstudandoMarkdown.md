@@ -23,8 +23,9 @@ três "###" =
 quatro "####" =
 #### Título de Nível 4
 e assim por diante, para fazer o equivalente ao "h1" (e demais) de HTML.
+
 ---
-Para fazer uma linha usar 3 - ou 3 *
+Para fazer uma linha usar 3 - ou 3 "*"
 Com traços
 ---
 Com asteriscos
@@ -92,7 +93,7 @@ Abaixo coloca 3- depois a | equivalente a quantidade de palavras seguindo a regr
 Numero | Nome | Nota
 ---|---|---
 1| Jack | 9,3
----|---|---
+
 
 ---
 
