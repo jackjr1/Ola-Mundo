@@ -23,12 +23,13 @@ três "###" =
 quatro "####" =
 #### Título de Nível 4
 e assim por diante, para fazer o equivalente ao "h1" (e demais) de HTML.
-
+---
 Para fazer uma linha usar 3 - ou 3 *
 Com traços
 ---
 Com asteriscos
 ***
+
 
 Podemos misturar configurações, Ex:
 
@@ -59,13 +60,13 @@ Aqui usa-se "-" mais palavra
 
 Lista de tarefas:
 
-- [] criar nova lista
-- [] finalizar esta lista 
+- [ ] criar nova lista
+- [ ] finalizar esta lista 
 
 para criar lista de tarefas usa-se: "-" espaço "[]" espaço e texto
 
 tarefas efetuadas basta voltar no arquivo onde foi feito a tarefa acima e colocar um "X" dentro ex:
-- [X] terminei a tarefa
+- [ X ] terminei a tarefa
 ---
 
-Para colocar imagem, basta arras a imagem para 
+Para colocar imagem, basta arras a imagem para  
