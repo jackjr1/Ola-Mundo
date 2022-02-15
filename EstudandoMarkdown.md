@@ -89,6 +89,7 @@ Ps: ideal usar imagens com no máximo 500px de largura.
 
 Para criar links  coloca se conchetes (abre e fecha), e logo após abre e fecha parenteses e dentro dos parenteses se coloca o link que se quer direcionar e dentro dos conchetes o texto ao qual o linque ficará relacionado.
 EX:  [Me siga no LinkedIn](https://www.linkedin.com/in/jackjr-coach/)
+
      [Me siga no Instagram](https://www.instagram.com/jackk.junior/)
 
 ---
@@ -139,7 +140,7 @@ Ps: Um super congratulations para ela pelo extraordinário trabalho :wave:  :smi
 
 Marcando pessoas:
 
-Para marcar uma pessoa que tem GitHub, basta colocar o nome do perfil depois do "@" sem espaço (na Issues, nos comentarios etc)ex: @jackjr1
+Para marcar uma pessoa que tem GitHub, basta colocar o nome do perfil depois do "@" sem espaço (na Issues, nos comentarios etc) ex: @jackjr1
 
 ---
 É isso para este documento :Smile: para algumas outras marcações ou formas de utilizar esta super linguagem de marcação, confere o curso de Git e GitHub do gustavoguanabara, é top.
